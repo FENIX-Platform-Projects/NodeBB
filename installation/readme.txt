@@ -25,7 +25,8 @@ security:
 $ sudo service mongod restart
 $ mongo -u your_username -p your_password --authenticationDatabase=admin
 
-
+Username: admin
+Password: 0f0f0212
 
 #SETTINGS PLUGINS
 
